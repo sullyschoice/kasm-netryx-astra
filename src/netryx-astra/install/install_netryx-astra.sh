@@ -42,6 +42,6 @@ chown 1000:1000 /usr/share/applications/netryx-astra.desktop
 cp /usr/share/applications/netryx-astra.desktop $HOME/Desktop/netryx-astra.desktop
 
 cd /tmp
-wget https://github.com/kasmtech/workspaces-images/blob/develop/src/ubuntu/install/chromium/install_chromium.sh
+wget https://raw.githubusercontent.com/kasmtech/workspaces-images/refs/heads/develop/src/ubuntu/install/chromium/install_chromium.sh
 bash ./install_chromium.sh
 rm ./install_chromium.sh
