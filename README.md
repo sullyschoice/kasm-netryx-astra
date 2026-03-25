@@ -1,5 +1,5 @@
 # Kasm Netryx Astra 
-Netryx Astra V2 (https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool) docker image for Kasm Workspaces (https://kams.com)
+Netryx Astra V2 (https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool) docker image for Kasm Workspaces (https://kasm.com)
 
 Load this image into Kasm Workspaces by adding the Sully's Choice Kasm Workspace Registry: https://sullyschoice.github.io/kasm-registry/
 
